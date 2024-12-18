@@ -1,7 +1,13 @@
 export default function Hero() {
     return (
-      <section id="hero" className="h-screen bg-gray-200 flex items-center justify-center">
-        <h1 className="text-4xl font-bold">Welcome to Dominick's Locksmith</h1>
+      <section
+        id="hero"
+        className="h-screen bg-white flex items-center justify-center text-center"
+      >
+        <h1 className="text-4xl sm:text-5xl font-bold text-red-600">
+          Welcome to Dominick's Locksmith
+        </h1>
       </section>
     );
   }
+  
