@@ -14,7 +14,7 @@ export default function Navbar() {
           {/* Logo */}
           <div className="flex items-center">
             <a href="#hero" className="text-xl font-bold">
-              Dominick's Locksmith
+              Keys to Please Locksmith
             </a>
           </div>
 
