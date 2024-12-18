@@ -7,9 +7,6 @@ export default function Footer() {
           </p>
           <div className="flex space-x-6 mt-4 sm:mt-0">
             <a href="#hero" className="hover:text-gray-200 transition">
-              Home
-            </a>
-            <a href="#about" className="hover:text-gray-200 transition">
               About
             </a>
             <a href="#services" className="hover:text-gray-200 transition">

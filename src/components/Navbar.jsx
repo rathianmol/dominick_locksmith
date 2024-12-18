@@ -26,7 +26,7 @@ export default function Navbar() {
 
           {/* Desktop Links */}
           <div className="hidden sm:flex sm:items-center sm:space-x-4">
-            <a href="#about" className="hover:text-gray-200 transition">
+            <a href="#hero" className="hover:text-gray-200 transition">
               About
             </a>
             <a href="#whyChooseUs" className="hover:text-gray-200 transition">
@@ -72,7 +72,7 @@ export default function Navbar() {
       {isOpen && (
         <div className="sm:hidden bg-red-700">
           <div className="space-y-1 px-2 pt-2 pb-3">
-            <a href="#about" className="block text-gray-100 hover:text-white">
+            <a href="#hero" className="block text-gray-100 hover:text-white">
               About
             </a>
             <a href="#whyChooseUs" className="block text-gray-100 hover:text-white">
