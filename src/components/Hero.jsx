@@ -1,4 +1,4 @@
-import Logo from "../assets/keys_to_please_logo.png"; // Logo path
+import Logo from "../assets/keys_to_please_3.png";
 
 export default function Hero() {
   return (
