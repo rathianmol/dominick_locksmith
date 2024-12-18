@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Logo from "../assets/keys_to_please_logo.png"; // Add your logo image path here
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -10,9 +11,14 @@ export default function Navbar() {
   return (
     <nav className="bg-red-600 text-white fixed w-full z-10 top-0 shadow-lg">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between h-16">
-          {/* Logo */}
-          <div className="flex items-center">
+        <div className="flex justify-between h-16 items-center">
+          {/* Logo and Brand */}
+          <div className="flex items-center space-x-2">
+            <img
+              src={Logo}
+              alt="Keys to Please Locksmith Logo"
+              className="h-8 w-8"
+            />
             <a href="#hero" className="text-xl font-bold">
               Keys to Please Locksmith
             </a>
@@ -62,6 +68,7 @@ export default function Navbar() {
         </div>
       </div>
 
+      {/* Mobile Links */}
       {isOpen && (
         <div className="sm:hidden bg-red-700">
           <div className="space-y-1 px-2 pt-2 pb-3">
