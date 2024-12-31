@@ -38,9 +38,6 @@ export default function Navbar() {
             <Link to="testimonials" smooth={true} duration={500} className="hover:text-gray-200 transition cursor-pointer">
               Testimonials
             </Link>
-            <Link to="contact" smooth={true} duration={500} className="hover:text-gray-200 transition cursor-pointer">
-              Contact
-            </Link>
           </div>
 
           <button onClick={toggleMenu} className="sm:hidden block text-gray-200 hover:text-white focus:outline-none">
@@ -100,15 +97,6 @@ export default function Navbar() {
               onClick={() => setIsOpen(false)}
             >
               Testimonials
-            </Link>
-            <Link
-              to="contact"
-              smooth={true}
-              duration={500}
-              className="block text-gray-100 hover:text-white cursor-pointer"
-              onClick={() => setIsOpen(false)}
-            >
-              Contact
             </Link>
           </div>
         </div>
