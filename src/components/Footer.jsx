@@ -9,11 +9,14 @@ export default function Footer() {
             <a href="#hero" className="hover:text-gray-200 transition">
               About
             </a>
+            <a href="#whyChooseUs" className="hover:text-gray-200 transition">
+              Why Choose Us
+            </a>
             <a href="#services" className="hover:text-gray-200 transition">
               Services
             </a>
-            <a href="#contact" className="hover:text-gray-200 transition">
-              Contact
+            <a href="#testimonials" className="hover:text-gray-200 transition">
+              Testimonials
             </a>
           </div>
         </div>
