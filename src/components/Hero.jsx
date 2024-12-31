@@ -1,4 +1,4 @@
-import Logo from "../assets/keys_to_please_3.png";
+import Logo from "../assets/keysToPleaseLogoPro.png";
 
 export default function Hero() {
   return (
@@ -9,7 +9,7 @@ export default function Hero() {
       <img
         src={Logo}
         alt="Keys to Please Locksmith Logo - Reliable Locksmith in Richmond"
-        className="h-20 w-20 sm:h-24 sm:w-24 mb-6"
+        className="h-20 w-20 sm:h-24 sm:w-24 mb-6 rounded-full"
       />
       <h1 className="text-3xl sm:text-5xl font-bold text-red-600 mb-4">
         Welcome to Keys to Please Locksmith

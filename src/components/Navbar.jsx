@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-scroll"; // Added react-scroll library
-import Logo from "../assets/keys_to_please_3.png";
+import Logo from "../assets/keysToPleaseLogoPro.png";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -14,7 +14,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           <div className="flex items-center space-x-2">
-            <img src={Logo} alt="Keys to Please Locksmith Logo" className="h-8 w-8" />
+            <img src={Logo} alt="Keys to Please Locksmith Logo" className="h-8 w-8 rounded-full" />
             <Link
               to="hero"
               smooth={true}

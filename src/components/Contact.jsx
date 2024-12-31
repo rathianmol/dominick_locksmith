@@ -33,7 +33,7 @@ export default function Contact() {
             "email": "dominick@example.com",
             "url": "https://www.keystoplease.com",
             "openingHours": "Mo-Su 08:00-20:00",
-            "image": "https://www.keystoplease.com/keys_to_please_3.png"
+            "image": "https://www.keystoplease.com/keysToPleaseLogoPro.png"
           })}
         </script>
       </div>
