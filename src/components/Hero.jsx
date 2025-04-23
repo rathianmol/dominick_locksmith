@@ -58,9 +58,9 @@ export default function Hero() {
               },
               "telephone": "+18044043844",
               "email": "info@keys2please.com",
-              "url": "https://www.keys2please.com",
+              "url": "https://www.keys2pleaselocksmith.com",
               "openingHours": "Mo-Su 08:00-20:00",
-              "image": "https://www.keys2please.com/keysToPleaseLogoPro.png",
+              // "image": "https://www.keys2please.com/keysToPleaseLogoPro.png",
             })}
           </script>
         </div>
