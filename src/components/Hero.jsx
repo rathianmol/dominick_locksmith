@@ -39,7 +39,7 @@ export default function Hero() {
               href="mailto:dominick@example.com"
               className="hover:text-red-600"
             >
-              info@keys2please.comß
+              info@keys2please.com
             </a>
           </p>
 
