@@ -9,13 +9,13 @@ export default function Hero() {
       {/* Logo */}
       <img
         src={Logo}
-        alt="Keys to Please Locksmith Logo - Reliable Locksmith in Richmond"
+        alt="Keys 2 Please Locksmith Logo - Reliable Locksmith in Richmond"
         className="h-20 w-20 sm:h-24 sm:w-24 mb-6 rounded-full"
       />
 
       {/* Main Heading */}
       <h1 className="text-3xl sm:text-5xl font-bold text-red-600 mb-4">
-        Welcome to Keys to Please Locksmith
+        Welcome to Keys 2 Please Locksmith
       </h1>
 
       {/* Subheading */}
@@ -31,7 +31,7 @@ export default function Hero() {
           <p className="text-gray-800 text-lg">
             <strong>Phone:</strong>{" "}
             <a href="tel:5551234567" className="hover:text-red-600">
-              (555) 123-4567
+              (804) 404-3844
             </a>
             <br />
             <strong>Email:</strong>{" "}
@@ -39,7 +39,7 @@ export default function Hero() {
               href="mailto:dominick@example.com"
               className="hover:text-red-600"
             >
-              dominick@example.com
+              info@keys2please.comß
             </a>
           </p>
 
@@ -48,7 +48,7 @@ export default function Hero() {
             {JSON.stringify({
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
-              "name": "Keys to Please Locksmith",
+              "name": "Keys 2 Please Locksmith",
               "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "Richmond",
@@ -56,11 +56,11 @@ export default function Hero() {
                 "postalCode": "23220",
                 "addressCountry": "US",
               },
-              "telephone": "+15551234567",
-              "email": "dominick@example.com",
-              "url": "https://www.keystoplease.com",
+              "telephone": "+18044043844",
+              "email": "info@keys2please.com",
+              "url": "https://www.keys2please.com",
               "openingHours": "Mo-Su 08:00-20:00",
-              "image": "https://www.keystoplease.com/keysToPleaseLogoPro.png",
+              "image": "https://www.keys2please.com/keysToPleaseLogoPro.png",
             })}
           </script>
         </div>
