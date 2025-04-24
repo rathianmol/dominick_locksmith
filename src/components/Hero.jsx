@@ -13,25 +13,17 @@ export default function Hero() {
         className="h-20 w-20 sm:h-24 sm:w-24 mb-6 rounded-full"
       />
 
-      {/* Main Heading */}
-      <h1 className="text-3xl sm:text-5xl font-bold text-red-600 mb-4">
-        Welcome to Keys 2 Please Locksmith
-      </h1>
-
       {/* Subheading */}
       <p className="text-lg sm:text-xl text-gray-700 mb-8">
-        Reliable locksmith services for homes, cars, and businesses in Richmond, VA.
+        Specializing in Automotive Locksmithing, Keys 2 Please offers a variety of services to get you back on the road in no time.
       </p>
 
       {/* Contact Information */}
         <div className="max-w-7xl mx-auto text-center">
-          <p className="text-lg text-gray-700 mb-12">
-            Contact Dominick for reliable locksmith services. We're here to help with all your locksmith needs!
-          </p>
           <p className="text-gray-800 text-lg">
-            <strong>Phone:</strong>{" "}
-            <a href="tel:5551234567" className="hover:text-red-600">
-              (804) 404-3844
+            <strong className="text-red-600 text-3xl font-bold">Call </strong>
+            <a href="tel:8044043844" className="text-red-600 text-3xl font-bold hover:text-red-700">
+                (804) 404-3844
             </a>
             <br />
             <strong>Email:</strong>{" "}
