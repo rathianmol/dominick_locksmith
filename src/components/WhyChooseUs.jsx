@@ -6,7 +6,7 @@ export default function WhyChooseUs() {
             Why Choose Us
           </h2>
           <p className="text-lg text-gray-700 mb-12">
-            Here’s why Dominick’s locksmith services stand out in Richmond, VA.
+            Here is how Keys 2 Please stands out from the rest.
           </p>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="flex flex-col items-center text-center">
