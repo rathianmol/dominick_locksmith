@@ -1,4 +1,4 @@
-import Logo from "../assets/keysToPleaseLogoPro.png";
+import Logo from "../assets/keysToPleaseLogo.png";
 
 export default function Hero() {
   return (
@@ -9,7 +9,7 @@ export default function Hero() {
       {/* Logo */}
       <img
         src={Logo}
-        alt="Keys 2 Please Locksmith Logo - Reliable Locksmith in Richmond"
+        alt="Keys 2 Please Locksmith Logo - Reliable Locksmith in Richmond, VA"
         className="h-20 w-20 sm:h-24 sm:w-24 mb-6 rounded-full"
       />
 
@@ -52,7 +52,7 @@ export default function Hero() {
               "email": "info@keys2please.com",
               "url": "https://www.keys2pleaselocksmith.com",
               "openingHours": "Mo-Su 08:00-20:00",
-              // "image": "https://www.keys2please.com/keysToPleaseLogoPro.png",
+              // "image": "https://www.keys2please.com/keysToPleaseLogo.png",
             })}
           </script>
         </div>

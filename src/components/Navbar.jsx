@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-scroll"; // Added react-scroll library
-import Logo from "../assets/keysToPleaseLogoPro.png";
+import Logo from "../assets/keysToPleaseLogo.png";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
