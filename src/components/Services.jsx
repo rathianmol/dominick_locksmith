@@ -11,26 +11,26 @@ export default function Services() {
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-gray-100 p-6 rounded-lg shadow">
               <h3 className="text-xl font-semibold text-red-600 mb-2">
-                General Locksmith
+                Vehicle Lockouts
               </h3>
               <p className="text-gray-600">
-                Lock installation, repair, rekeying, and emergency lockouts.
+                Locked out of your vehicle? We can get you back in!
               </p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg shadow">
               <h3 className="text-xl font-semibold text-red-600 mb-2">
-                Automotive Locksmith
+                Key Duplication
               </h3>
               <p className="text-gray-600">
-                Car key duplication, transponder programming, and lockouts.
+                Need spare keys? We can create them for you!
               </p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg shadow">
               <h3 className="text-xl font-semibold text-red-600 mb-2">
-                Emergency Services
+                Key Programming and Cutting
               </h3>
               <p className="text-gray-600">
-                24/7 lockout assistance for homes, cars, and businesses.
+                We can match your keys to your vehicles!
               </p>
             </div>
           </div>
