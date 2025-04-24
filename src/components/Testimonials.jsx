@@ -14,13 +14,13 @@ export default function Testimonials() {
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <p className="text-gray-600 italic">
-                "Affordable pricing and excellent service. Dominick is my go-to locksmith."
+                "Affordable pricing and excellent service. Keys 2 Please are my go-to locksmith."
               </p>
               <p className="text-gray-800 font-bold mt-4">- Sarah L.</p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <p className="text-gray-600 italic">
-                "Fast response time and professional attitude. Would definitely use Dominick again!"
+                "Fast response time and professional attitude. Would definitely use Keys 2 Please again!"
               </p>
               <p className="text-gray-800 font-bold mt-4">- Michael R.</p>
             </div>
