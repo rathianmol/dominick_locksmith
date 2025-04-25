@@ -54,7 +54,7 @@ export default function WhyChooseUs() {
                 Convenient
               </h3>
               <p className="text-gray-600 text-sm">
-                Localized key relate services, one phone call away!
+                We come to you in a timely manner!
               </p>
             </div>
             <div className="flex flex-col items-center text-center">
