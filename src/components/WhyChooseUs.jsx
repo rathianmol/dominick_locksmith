@@ -51,10 +51,10 @@ export default function WhyChooseUs() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-800 mb-2">
-                Experienced
+                Convenient
               </h3>
               <p className="text-gray-600 text-sm">
-                Years of expertise you can trust.
+                Localized key relate services, one phone call away!
               </p>
             </div>
             <div className="flex flex-col items-center text-center">
