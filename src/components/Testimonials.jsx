@@ -10,7 +10,7 @@ export default function Testimonials() {
               <p className="text-gray-600 italic">
                 "Keys 2 Please were quick and professional when I locked my keys in my car. Highly recommend!"
               </p>
-              <p className="text-gray-800 font-bold mt-4">- John D.</p>
+              <p className="text-gray-800 font-bold mt-4">- Latoya D.</p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <p className="text-gray-600 italic">
