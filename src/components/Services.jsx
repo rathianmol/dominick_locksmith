@@ -14,23 +14,23 @@ export default function Services() {
                 Vehicle Lockouts
               </h3>
               <p className="text-gray-600">
-                Locked out of your vehicle? We can get you back in!
+                We can get you back in to your locked vehicles!
               </p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg shadow">
               <h3 className="text-xl font-semibold text-red-600 mb-2">
-                Key Duplication
+                Duplication, Programming and Cutting
               </h3>
               <p className="text-gray-600">
-                Need spare keys? We can create them for you!
+                We offer a wide array of key related services!
               </p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg shadow">
               <h3 className="text-xl font-semibold text-red-600 mb-2">
-                Key Programming and Cutting
+                All Keys Lost
               </h3>
               <p className="text-gray-600">
-                We can match your keys to your vehicles!
+                We can help with your lost keys!
               </p>
             </div>
           </div>
@@ -38,4 +38,3 @@ export default function Services() {
       </section>
     );
   }
-  
