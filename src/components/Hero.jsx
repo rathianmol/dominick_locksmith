@@ -1,4 +1,4 @@
-import Logo from "../assets/keysToPleaseLogo.png";
+import Logo from "../assets/Logo.png";
 
 export default function Hero() {
   return (
@@ -52,7 +52,7 @@ export default function Hero() {
               "email": "info@keys2please.com",
               "url": "https://www.keys2pleaselocksmith.com",
               "openingHours": "Mo-Su 08:00-20:00",
-              // "image": "https://www.keys2please.com/keysToPleaseLogo.png",
+              // "image": "https://www.keys2please.com/Logo.png",
             })}
           </script>
         </div>
