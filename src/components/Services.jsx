@@ -19,18 +19,18 @@ export default function Services() {
             </div>
             <div className="bg-gray-100 p-6 rounded-lg shadow">
               <h3 className="text-xl font-semibold text-red-600 mb-2">
-                Duplication, Programming and Cutting
+                Key Duplication, Programming and Cutting
               </h3>
               <p className="text-gray-600">
-                We offer a wide array of key related services!
+                We can copy your key and program it to your specific vehicle!
               </p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg shadow">
               <h3 className="text-xl font-semibold text-red-600 mb-2">
-                All Keys Lost
+                Lost All Keys?
               </h3>
               <p className="text-gray-600">
-                We can help with your lost keys!
+                We can make you a new set of keys from scratch!
               </p>
             </div>
           </div>
