@@ -10,25 +10,25 @@ export default function Hero() {
       <img
         src={Logo}
         alt="Keys 2 Please Locksmith Logo - Reliable Locksmith in Richmond, VA"
-        className="h-20 w-20 sm:h-24 sm:w-24 mb-6 rounded-full"
+        className="h-40 w-40 sm:h-48 sm:w-48 mb-6 rounded-full"
       />
 
       {/* Subheading */}
       <p className="text-lg sm:text-xl text-gray-700 mb-8">
-        Specializing in Automotive Locksmithing, Keys 2 Please offers a variety of services to get you back on the road in no time.
+        Specializing in automotive locksmithing, Keys 2 Please offers a variety of services related to your automotive key-related needs.
       </p>
 
       {/* Contact Information */}
         <div className="max-w-7xl mx-auto text-center">
           <p className="text-gray-800 text-lg">
-            <strong className="text-red-600 text-3xl font-bold">Call </strong>
+            <strong className="text-red-600 text-3xl font-bold">Call: </strong>
             <a href="tel:8044043844" className="text-red-600 text-3xl font-bold hover:text-red-700">
                 (804) 404-3844
             </a>
             <br />
             <strong>Email:</strong>{" "}
             <a
-              href="mailto:dominick@example.com"
+              href="mailto:info@keys2please.com"
               className="hover:text-red-600"
             >
               info@keys2please.com
